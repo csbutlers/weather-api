@@ -3,7 +3,7 @@ var data;
         var newCity = "Boise";
         var api = "https://api.openweathermap.org/data/2.5/weather?q=";
         var units = "&units=imperial&appid=";
-        var key = "00057adebe128a511fe0142d67c240bc";
+        var key = "";
         var api_url = api + newCity + units + key;
        
         
